@@ -1,0 +1,1 @@
+import "./globals.css"; export const metadata={title:"115 分區研習｜教師回饋問卷",description:"數位 × 探究～打造高互動、高參與的社會領域學習課堂"}; export default function Layout({children}:{children:React.ReactNode}){return <html lang="zh-Hant"><body>{children}</body></html>}
