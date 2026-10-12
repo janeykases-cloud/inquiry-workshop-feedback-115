@@ -1,7 +1,5 @@
 name: Publish survey entry
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read
